@@ -1,0 +1,114 @@
+.container1{
+    padding: 40px 80px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    max-width: 400px;
+}
+#dang_ky_form p{
+    margin-top: 2px;
+font-size: 15px;
+line-height: 15px;
+height: 15px;
+}
+.container1 h1{
+    font-size: 30px;
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 2px solid gray;
+    padding: 10px;
+
+}
+.container1 .qmk {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 40px;
+    margin-top: 10px;
+
+}
+.chuachu textarea{
+    border: none;
+    min-width: 350px;
+}
+.dk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 20px;
+}
+
+.dk a{
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.dk p{
+    line-height: 20px;
+}
+.container1 .qmk a{
+    text-decoration: none;
+}
+html{
+    padding: 0;
+    box-sizing: border-box;
+}
+.form-check{
+    margin-top: 10px;
+}
+.chuanut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chuasanpham {
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    min-width: 400px;
+    transform: scale(0.8);
+}
+.chuachu{
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.chuasanpham img {
+    max-height: 300px;
+    border-radius: 8px;
+    border: 1px solid white;
+
+}
+
+.chuaanh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgba(128, 128, 128, 0.1);
+    margin-bottom: 10px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.chuacontent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+
+main h1 {
+    text-align: center;
+}

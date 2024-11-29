@@ -1,0 +1,62 @@
+.container{
+    padding: 40px 80px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    transform: scale(0.8);
+    transform-origin: top 70px;
+    max-width: 400px;
+}
+#dang_ky_form p{
+    margin-top: 2px;
+font-size: 15px;
+line-height: 15px;
+height: 15px;
+}
+.container h1{
+    font-size: 30px;
+    text-align: center;
+}
+.container .qmk {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 40px;
+    margin-top: 10px;
+
+}
+.dk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 20px;
+}
+
+.dk a{
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.dk p{
+    line-height: 20px;
+}
+.container .qmk a{
+    text-decoration: none;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+html{
+    padding: 0;
+    box-sizing: border-box;
+}
+.form-check{
+    margin-top: 10px;
+}
+.chuanut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
